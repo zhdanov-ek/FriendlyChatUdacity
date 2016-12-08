@@ -255,6 +255,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.6.0_ee87d74e9ca2550946b573cee5e17aa694ff7c45.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -279,6 +288,15 @@
         revision="24.0.1"
         sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
         <dex dex="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_4962ca0fdebef38240959e05dc24c2dfc2009f0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.6.0_d17e2240f1324828f6756b65db9414e6635cfb76.jar" />
     </item>
     <item
         is-multidex="false"
