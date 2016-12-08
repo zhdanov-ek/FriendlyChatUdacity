@@ -3,6 +3,15 @@
 
     <item
         is-multidex="false"
+        jar="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1f4bb2577a30d0b3268fed038ed59230709ad593">
+        <dex dex="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.6.0_1e64257dffa9d4522be82a1868f7699a833410f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -39,6 +48,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\gek\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_6c7b9e90874c277a20148910a20aab6e670854f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -48,12 +66,48 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.6.0_4ebbda2bf442ab35a756fcbff2a118dfd7b9cd69.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
         sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
         <dex dex="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_25b0fcaf8e535115423f4c94b9d43fc382a611b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\pre-dexed\debug\com.android.support-customtabs-23.4.0_494a23232dff49710ff066c6a89adda5c85a45f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.6.0_ed61f8fb89e56a75840defa40cb9f9f0a6cefa7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.6.0_7731b9c9ca9f1ffa4342f8dc6af939bd473ea9a6.jar" />
     </item>
     <item
         is-multidex="false"
@@ -84,6 +138,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\gek\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_0b67bf91b7aec5d0e644c1b8b88102bf90bc2ef7.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
         jumboMode="false"
         optimize="true"
@@ -99,6 +162,24 @@
         revision="24.0.1"
         sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
         <dex dex="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_10207e9daf6d9b0e4623d48df7e4c1bce6186d2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.4.0_f6033b36ba8c1fb5b7c18931dcb26e622b06f0b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ef21408e3142ffbfbd4a7ec1762c3325c6c386c">
+        <dex dex="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.6.0_5b73bbadeae2a13ebe82aac82c86f4a549254ee8.jar" />
     </item>
     <item
         is-multidex="false"
@@ -183,6 +264,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.6.0_5e01b2412aab3d612f597a991643674e61540ad4.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -225,6 +315,24 @@
         revision="24.0.1"
         sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
         <dex dex="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.6.0_168631291586aee1dfc8f56d4188a36e8d4a5632.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.14.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
+        <dex dex="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.14.1_70b8a8ff4907c5a7dbabbb411d37b62a300f905b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-auth\0.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8ac09931704b91e7b4d281f5e34b3b006b628c22">
+        <dex dex="C:\Users\gek\AndroidStudioProjects\and-nd-firebase\app\build\intermediates\pre-dexed\debug\com.firebaseui-firebase-ui-auth-0.6.0_fc212f0f9a829e20fbd28d3bb63dd041d7aac5f9.jar" />
     </item>
     <item
         is-multidex="false"
